@@ -39,3 +39,5 @@ there is a lot of work to be done on getting the geometry to work.
 Contributors are welcome, any mappers in the DXHQ Discord who have a better understanding of the Unreal Engine brush system, your knowledge would be greatly appreciated if you have the time to do so!
 I get the thematic relevance of AI in the game translating to today but please don't put any LLM generated code into this project. Feel free to fork it but this project is a intriguing problem that I'd
 like to solve and I think using LLMs to bypass that takes away from the satisfaction.
+
+Also this should be obvious but dont commit any copyrighted material. This includes t3ds, converted meshes, texture data etc. Any data generated should be kept local to the project.
