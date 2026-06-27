@@ -32,8 +32,10 @@ CSG line-up on subtractions isn't great so a lot of doorways will appear blocked
 With the help of another user on a game dev discord I'm part of (shoutout to [Portponky](https://github.com/Portponky))
 there's an editor button on the node that can try to align the subtractions up a bit better. It does take a long time to process though and still doesn't quite catch all the subtractions,
 but given some of the subtraction volumes are completely off on the map like this cursed thing that is supposed to be the ceiling up the stairs
+
 <img width="235" height="121" alt="image" src="https://github.com/user-attachments/assets/96e33229-3af7-4b9d-b948-d32b5e8cf73f" />
-there is a lot of work to be done on getting the geometry to work.
+
+so there is still a lot of work to be done on getting the geometry working correctly.
 
 ## Contributing
 Contributors are welcome, any mappers in the DXHQ Discord who have a better understanding of the Unreal Engine brush system, your knowledge would be greatly appreciated if you have the time to do so!
